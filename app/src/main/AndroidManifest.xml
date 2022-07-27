@@ -13,6 +13,7 @@
         android:theme="@style/Theme.Webview"
         tools:targetApi="31">
         <activity
+            android:configChanges="orientation|screenSize|screenLayout|keyboardHidden"
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"
