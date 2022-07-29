@@ -1,4 +1,8 @@
 # Web-view-jetpack-compose-2022
+Compose WebView Part 12 | No internet screen
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHEMphAoiPHyj7HBPqyB1aMoMqFsOgL_t0rc4KRzoBIe4Rp2hrn2tIJhwvA2CwCPifVrv7mPv_MM36sATjZ2TCpdg-TFWNdQ1t_jtkiz_5SuOaMn1K6yueVmAOa-hSd_sl0ADhUZPSiG9swIR9eIgSWug_gj1op7QKDm0tHuwtlW3Vyew355Vfosb1/s16000/part12.jpg" alt="Compose" width="100%">
+https://www.boltuix.com/2022/07/compose-webview-part-12-no-internet.html
+
 Compose WebView Part 11 | Webpage not available
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHNvtPbh1vGZab9NqW8A4uuVIVEspFGIfaRz78vCPd0VpXw4UZwiuIxu-b6YW_gz7c1wU893n1AMq_-LtVwM_EXAtodoNWg2TdBo-ZcmIsdqFAfEiiW5HqoZicMYSVtBmEmEvGW4EiLIuZfJvxM50PdBlCZeWf5RkQLcdjQ-xUw94jCwEfvrmIkJJK/s16000/page11.jpg" alt="Compose" width="100%">
 https://www.boltuix.com/2022/07/compose-webview-part-11-webpage-not.html
@@ -42,3 +46,5 @@ https://www.boltuix.com/2022/07/compose-webview-part-2-play-video.html
 Compose WebView Part 1 Load URL
 https://www.boltuix.com/2022/07/compose-webview-part-1-load-url.html
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfRX1kX5e658_hr97AZSNEFFEFWl7PukN6dcHrn-HzLu0xpPJ4d1WLTjS-LiX-faPo2Xh33A1rAe6G4pePW5ZshzEHWGSbfhlv-qjo9AvF4wRPrr14InAc88NEosrLji8PgBljIcfe2Is8sP81diMTLGwbd45WxjTt-WuQMU7WB51AKQhDHsybeBvf/s16000/compose%20web1.jpg" alt="Compose" width="100%">
+
+by www.boltuix.com
