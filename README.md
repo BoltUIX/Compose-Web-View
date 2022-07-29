@@ -1,4 +1,12 @@
 # Web-view-jetpack-compose-2022
+Compose WebView Part 11 | Webpage not available
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHNvtPbh1vGZab9NqW8A4uuVIVEspFGIfaRz78vCPd0VpXw4UZwiuIxu-b6YW_gz7c1wU893n1AMq_-LtVwM_EXAtodoNWg2TdBo-ZcmIsdqFAfEiiW5HqoZicMYSVtBmEmEvGW4EiLIuZfJvxM50PdBlCZeWf5RkQLcdjQ-xUw94jCwEfvrmIkJJK/s16000/page11.jpg" alt="Compose" width="100%">
+https://www.boltuix.com/2022/07/compose-webview-part-11-webpage-not.html
+
+Compose WebView Part 10 | Show Loader
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh04Zq2ecXL2HzCBngYIjekA79hjzqaejZF6Z0rfByD5Be2tmiLSHhGRl85gKtgHJBV1lJtT90PZYdYw7FL7MditWOd6I6l16__mcubVf6bL9ShJyifbTG9575NcxznS_GMY_WXB08yjxPHFWNAYgmSYDzayPWmaDdoqY9kYDWgK8wy_8-jvvoNehj7/s16000/part10.jpg" alt="Compose" width="100%">
+https://www.boltuix.com/2022/07/compose-webview-part-10-show-loader.html
+
 Compose WebView Part 9 | Removes or Stop Ad in web
 https://www.boltuix.com/2022/07/compose-webview-part-9-removes-or-stop.html
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheea_22IwA7Q2huidvshaQWkHIhBXdb-Rf-VX-HwTp4Fu70dUvOPxGq9-mBxZyqIsfkPqCbutef2MzDWVFjH0maA4rWGJElomrBx_JrSQNGrbbEJSdRVkm-XfH0WuRVLOnwVN_-1RI4Pk9-QBcam--I6brpGHDl2MjMevFySw6Wg6mhhbwxCQeYzGi/s1280/remove%20ads.jpg" alt="Compose" width="100%">
